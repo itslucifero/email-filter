@@ -3,27 +3,17 @@ import os
 from time import sleep
 print("""           Email Filter By Domain v 0.0.1
 
- ██░ ██  ██▀███   ▄▄▄       ▄████▄   ██ ▄█▀▓█████ ▓█████▄ ▒███████▒
-▓██░ ██▒▓██ ▒ ██▒▒████▄    ▒██▀ ▀█   ██▄█▒ ▓█   ▀ ▒██▀ ██▌▒ ▒ ▒ ▄▀░
-▒██▀▀██░▓██ ░▄█ ▒▒██  ▀█▄  ▒▓█    ▄ ▓███▄░ ▒███   ░██   █▌░ ▒ ▄▀▒░ 
-░▓█ ░██ ▒██▀▀█▄  ░██▄▄▄▄██ ▒▓▓▄ ▄██▒▓██ █▄ ▒▓█  ▄ ░▓█▄   ▌  ▄▀▒   ░
-░▓█▒░██▓░██▓ ▒██▒ ▓█   ▓██▒▒ ▓███▀ ░▒██▒ █▄░▒████▒░▒████▓ ▒███████▒
- ▒ ░░▒░▒░ ▒▓ ░▒▓░ ▒▒   ▓▒█░░ ░▒ ▒  ░▒ ▒▒ ▓▒░░ ▒░ ░ ▒▒▓  ▒ ░▒▒ ▓░▒░▒
- ▒ ░▒░ ░  ░▒ ░ ▒░  ▒   ▒▒ ░  ░  ▒   ░ ░▒ ▒░ ░ ░  ░ ░ ▒  ▒ ░░▒ ▒ ░ ▒
- ░  ░░ ░  ░░   ░   ░   ▒   ░        ░ ░░ ░    ░    ░ ░  ░ ░ ░ ░ ░ ░
- ░  ░  ░   ░           ░  ░░ ░      ░  ░      ░  ░   ░      ░ ░    
-                           ░                       ░      ░        
                             
-                    Telegram : https://t.me/kickflap
-                    Website : https://hrackedz.com        
+                    Telegram : https://t.me/mrhouse998
+                       
                             
                             
                              """) 
 print(' GIVE ME A FRACTION OF SECOND MUHAHAHAH\n')
-print('RESULT WILL BE SAVED IN HRACKEDZ REZULT FOLDER.\n \n')                                          
+print('RESULT WILL BE SAVED IN mrhouse998 REZULT FOLDER.\n \n')                                          
 mlist = input("Enter the list path : ")
 
-dir = 'HRACKEDZ REZULT'
+dir = 'mrhouse998 REZULT'
 os.mkdir(dir)
 
 for email in open(mlist, 'r'):
